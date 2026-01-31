@@ -33,9 +33,9 @@ Google Trends (cough, fever, SOB queries)
 
 ED visit volumes (open NHS data)
 
-Prescription patterns (antibiotics, antivirals — synthetic)
+Prescription patterns (antibiotics, antivirals-synthetic)
 
-Wearable-derived signals (HRV, resting HR — synthetic)
+Wearable-derived signals (HRV, resting HR-synthetic)
 
 Wastewater viral load
 
